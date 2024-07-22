@@ -4,4 +4,4 @@
 - Age:30s
 
 ## my X account(just only for Vtuber topics)
-https://x.com/yoshikitakada_
+`https://x.com/yoshikitakada_`
